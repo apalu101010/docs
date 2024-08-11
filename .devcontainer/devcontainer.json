@@ -35,7 +35,7 @@
                 "GitHub.copilot-chat"
             ]
         },
-        "codespaces": {
+        "codespaces": {1928
             "repositories": {
                 // allow Codespaces to pull from separate repo when user has access
                 "github/docs-early-access": {
